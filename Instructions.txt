@@ -1,0 +1,16 @@
+Translate this code into Pep/8 :
+{
+	int x;
+	int y;	
+	int sum;
+	int diff;
+	System.out.print (“Enter a number: ”);
+	x = kb.nextInt();
+	System.out.print (“Enter a number: ”);
+	y = kb.nextInt();
+	sum = x + y;
+	System.out.println (“Sum = ” + sum);
+	diff = x – y;
+	System.out.println(“Difference = ” + diff);
+}
+
