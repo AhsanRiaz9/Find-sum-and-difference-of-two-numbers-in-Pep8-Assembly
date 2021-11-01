@@ -13,4 +13,4 @@ Download URL: https://computersystemsbook.com/4th-edition/pep8/
 
 
 ### Program Output:
-![Result](Output.PNG)
+![Result](output.PNG)
